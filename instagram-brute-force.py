@@ -11,7 +11,7 @@ for line in file:
     bruteforce.append(line)
 file.close()
 
-web = Browser()
+web = Browser(https://www.instagram.com/accounts/login/)
 keyboard = Controller()
 
 
